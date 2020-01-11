@@ -1,5 +1,6 @@
 # hello-world
-ilkim var idi bir zamanlar:)
+ilkim
 
-
+bi şeyler yazıyorum ki değşiiklikleri göstersin hehe :DDD
+-meli 
 çakışmaa
