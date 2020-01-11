@@ -1,2 +1,5 @@
 # hello-world
-ilkim
+ilkim var idi bir zamanlar:)
+
+
+çakışmaa
